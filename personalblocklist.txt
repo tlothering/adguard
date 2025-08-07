@@ -1,0 +1,14 @@
+!
+! Title: AdGuard DNS filter - Personal BlockList
+! Description: Personal list of Blocked domains.
+! Version: 1.0.0.0
+! Last modified: 2025-08-07T12:14:15.428Z
+!
+||symantec.com^
+||symantecliveupdate.com^
+||symantec.net^
+||mcafee.com^
+||mcafee-cloud.com^
+||mcafeemobilesecurity.com^
+||mcafeewebadvisor.com^
+||trustedsource.org^
