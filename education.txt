@@ -19,6 +19,7 @@
 @@||columbia.edu^
 @@||cput.ac.za^
 @@||ctutraining.ac.za^
+@@||campusmanager.co.za^
 @@||cut.ac.za^
 @@||damelin.co.za^
 @@||dut.ac.za^
