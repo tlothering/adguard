@@ -1,0 +1,21 @@
+!
+! Title: AdGuard DNS filter - South African banks
+! Description: List of South African Banks and is intended to serve as a Whitelist.
+! Version: 1.0.0.0
+! Last modified: 2025-08-07T12:14:15.428Z
+!
+@@||absa.co.za^
+@@||absa.africa^
+@@||africanbank.co.za^
+@@||bidvestbank.co.za^
+@@||capitecbank.co.za^
+@@||discovery.bank^
+@@||discovery.co.za^
+@@||fnb.co.za^
+@@||investec.com^
+@@||investec.co.za^
+@@||nedbank.co.za^
+@@||sasfin.com^
+@@||standardbank.co.za^
+@@||tymebank.co.za^
+@@||ubank.co.za^
