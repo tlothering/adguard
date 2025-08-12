@@ -94,3 +94,4 @@
 @@||windowsazure.com^
 @@||yammer.com^
 @@||yammerusercontent.com^
+@@||salesforce-sites.com^
