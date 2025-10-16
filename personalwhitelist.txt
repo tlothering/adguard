@@ -9,3 +9,5 @@
 @@||facebook.com^
 @@||n8n.io^
 @@||livingscriptures.com^
+@@||mmrgcchiot.azure-devices.us^
+@@||mmrgcchstor.blob.core.usgovcloudapi.net^
