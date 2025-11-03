@@ -95,3 +95,7 @@
 @@||yammer.com^
 @@||yammerusercontent.com^
 @@||salesforce-sites.com^
+@@||digicert.com^
+@@||ocsp.omniroot.com^
+@@||activation.sls.microsoft.com^
+@@||public-trust.com^
