@@ -11,3 +11,4 @@
 @@||livingscriptures.com^
 @@||mmrgcchiot.azure-devices.us^
 @@||mmrgcchstor.blob.core.usgovcloudapi.net^
+@@||samsungosp.com^
