@@ -29,3 +29,10 @@
 ||ads.microsoft.com^
 ||adnexus.net^
 ||acdc.msn.com^
+||settings-win.data.microsoft.com^
+||survey.watson.microsoft.com^
+||feedback.microsoft.com^
+||feedback.windows.com^
+||cs1.wpc.v0cdn.net^
+||df.telemetry.microsoft.com^
+||reports.wes.df.telemetry.microsoft.com^
