@@ -13,3 +13,4 @@
 @@||mmrgcchstor.blob.core.usgovcloudapi.net^
 @@||samsungosp.com^
 @@||credly.com^
+@@||truecaller.com^
