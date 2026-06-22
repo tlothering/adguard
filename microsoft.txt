@@ -27,6 +27,7 @@
 @@||geotrust.com^
 @@||getmicrosoftkey.com^
 @@||gfx.ms^
+@@||github.com^
 @@||globalsign.com^
 @@||globalsign.net^
 @@||identrust.com^
