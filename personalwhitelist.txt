@@ -17,3 +17,4 @@
 @@||truecaller.com^
 @@||whatsapp.net^
 @@||powerbi.com^
+@@||mikrotik.com^
