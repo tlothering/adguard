@@ -76,6 +76,7 @@
 @@||powerautomate.com^
 @@|protection.outlook.com^
 @@||public-trust.com^
+@@||servicebus.windows.net^
 @@||sfx.ms^
 @@||sharepoint.com^
 @@||sharepointonline.com^
